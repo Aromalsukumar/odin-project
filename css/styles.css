@@ -1,0 +1,55 @@
+.text1{
+  
+  font-size: 60px;
+  line-height: 1;
+}
+
+.text2{
+   font-size: 20px;
+}
+.grid-item{
+  width: 50%;
+  align-items: center;
+}
+.base{
+  background-color: rgb(246, 245, 245);
+}
+.stories{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.success{
+  background: linear-gradient(rgb(255, 255, 255),rgb(250, 249, 249));
+}
+.ld{
+  justify-content: center;
+  align-items: center;
+  gap: 2%;
+
+}
+.lg{
+ 
+  align-items: center;
+}
+.foot{
+  border-top: 1px solid black;
+}
+.sqr{
+  width: 90%;
+}
+.line{
+  line-height: 3;
+}
+.icon{
+  gap: 10%;
+}
+.icon a{
+  color: grey;
+}
+.icon a:hover{
+  color: rgb(89, 89, 236);
+}
+.learn:hover{
+  box-shadow: 5px 5px 5px 5px rgb(233, 233, 234);
+}

@@ -1,0 +1,36 @@
+.bg-color{
+    background-color: rgb(245, 245, 245);
+}
+.email{
+    font-size: small;
+    font-weight: 500;
+   
+}
+.btn-sign{
+    width: 100%;
+}
+.btn-git , .btn-google{
+    width: 100%;
+}
+.bg-support{
+    background-color: rgb(241, 241, 241);
+  }
+  .line{
+    line-height: 3;
+  }
+  .foot{
+    border-top: 1px solid black;
+  }
+  .lg{
+ 
+    align-items: center;
+  }
+  .icon{
+    gap: 10%;
+  }
+  .icon a{
+    color: grey;
+  }
+  .icon a:hover{
+    color: rgb(89, 89, 236);
+  }
